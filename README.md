@@ -2,6 +2,8 @@
 
 Hi! I'm a hardworking undergraduate student at the National Institute of Engineering Mysuru with a passion for cybersecurity, machine learning, AI, and networking. I have an eager mind to learn, strong leadership qualities, and excellent communication skills.
 
+
+
 💡 What I Do
 
 Cybersecurity & Networking: Hands-on experience with Nmap and BurpSuite for ethical hacking and network security.
@@ -11,6 +13,8 @@ Machine Learning & AI: Worked on text summarization, sentiment analysis, and dat
 Full-Stack Development: Building applications using Python, Docker, and now learning JavaScript for frontend development.
 
 Hackathon Enthusiast: Participated in an IEEE BMSCE hackathon, building a YOLO-based football player tracking system (now scaling it to other sports).Won 2nd plcae in INVICTA hackathon. Won 3rd place in State Lele Project EXPO.
+
+
 
 🔥 Projects & Experience
 
@@ -36,6 +40,8 @@ Scaling to cricket, football, tennis, and kabaddi
 
 Goal: Provide real-time player tracking and performance insights
 
+
+
 📚 Tech Stack & Skills
 
 Languages: Python, C, C++, JavaScript (learning)
@@ -50,13 +56,15 @@ Databases: SQL, NoSQL
 
 Web Development: Flask, HTML, CSS, JavaScript (learning frontend)
 
-🎯 Learning & Goals
 
-Master JavaScript & Frontend Development (for an award-worthy UI)
+
+🎯 Learning & Goals
 
 Advance in Cybersecurity & Networking
 
 Deploy AI models for real-world impact
+
+
 
 📫 Connect with Me
 
